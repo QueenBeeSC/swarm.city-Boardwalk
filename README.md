@@ -1,2 +1,2 @@
 # swarm.city-Boardwalk
-knowledge base
+knowledge base article
