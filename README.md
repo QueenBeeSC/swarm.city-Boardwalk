@@ -18,7 +18,7 @@ See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob
 **What can a hashtag do within the Boardwalk?**
 - each hashtag automatically performs commerce functions under certain conditions; like holding funds, apying out funds, and creating reputation tokens
 
-**How does this work for the end user?**
+**How does the transaction happen within a hashtag?**
 1. when a request is placed the hashtag smart contract automatically pulls the payout amount from the requester's wallet
 2. the funds go into a smart contract
 3. the requester finalizes the transaction by selecting a provider, then signals that the deal is complete
@@ -31,12 +31,13 @@ See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob
 **What hashtags are available now?**
 - #pioneer is available for unspecified open commerce now   
 
-**What are repuatution tokens used for?**
+**What are reputation tokens used for?**
 - early adopters receive and hold unique reputation tokens for eternity to reflect thier activity and longevity on the platform
 
-**Can I create my own hashtag?**
+**Who can create a hashtag?**
 - in the next phase of the Boardwalk every user will have the ability to create and maintain a hashtag
 
+**How does creating a hashtag work for t
 
 ...more coming soon, I am off to sleep
 
