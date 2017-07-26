@@ -4,7 +4,9 @@
 
 
 > On June 15, 2017 Swarm City released the first hashtag on the Boardwalk, #pioneer
-See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md)
+
+> See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md)
+
 > To visit the Boardwalk, [enter here](https://swarm.city)
 
 
@@ -16,20 +18,21 @@ See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob
 - a smart contract that specifies the context by which users transact on the blockchain
 
 **What can a hashtag do within the Boardwalk?**
-- each hashtag automatically performs commerce functions under certain conditions; like holding funds, apying out funds, and creating reputation tokens
+- each hashtag automatically performs commerce functions under certain conditions; like holding funds, exchanging funds, and creating reputation tokens
 
-**How does the transaction happen within a hashtag?**
+**How does a transaction happen between users within a hashtag?**
 1. when a request is placed the hashtag smart contract automatically pulls the payout amount from the requester's wallet
 2. the funds go into a smart contract
-3. the requester finalizes the transaction by selecting a provider, then signals that the deal is complete
-4. the hashtag smart contract sends those funds to the service provider
-5. reputation tokens are minted for both parties
+3. others can respond to requests by offering a deposit into the hashtag smart contract
+4. the requester finalizes the transaction by selecting a provider, and then signals when the deal is complete
+5. the hashtag smart contract sends those funds to the service provider along with their initial deposit
+6. reputation tokens are minted for both parties upon completion of the transaction
 
-**Where are the funds stored during the transaaction?**
+**Where are the funds stored during the transaaction before contract completion?**
 - into a smart contract on the blockchain, the automatic functions of the smart contract take place of escrow agents and payment processors, thus creating a trustless transaction without third party participation
 
 **What hashtags are available now?**
-- #pioneer is available for unspecified open commerce now   
+- #pioneer is the first and only hashtag available for unspecified open commerce as of June 25, 2017
 
 **What are reputation tokens used for?**
 - early adopters receive and hold unique reputation tokens for eternity to reflect thier activity and longevity on the platform
