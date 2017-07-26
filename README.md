@@ -37,7 +37,16 @@ See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob
 **Who can create a hashtag?**
 - in the next phase of the Boardwalk every user will have the ability to create and maintain a hashtag
 
-**How does creating a hashtag work for t
+**How does creating a hashtag work?**
+1. from the hashtag index screen, select the (+) symbol
+2. the hashtag is an Ethereum smart contract that can be created in exchange for SWT to cover the required processing power required
+3. the hashtag must have a description explaining the context of expected commerce
+4. the creator must provide a contact link for users that need support
+5. name the hashtag
+6. set the hashtag fee, which is the fixed amount automatically deducted from all transactions and paid out to the hashtag creator
+7. the hashtag creator must also maintian it using the fees deducted from the transaction and can also allocate fixed amounts to compensate additional hashtag maintainers
+8. the hashtag short url is then produced to the hashtag creator and is ready for commerce
+
 
 ...more coming soon, I am off to sleep
 
