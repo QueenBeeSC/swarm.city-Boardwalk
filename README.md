@@ -5,10 +5,10 @@
 
 > On June 15, 2017 Swarm City released the first hashtag on the Boardwalk, #pioneer
 See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md)
-
-
 > To visit the Boardwalk, [enter here](https://swarm.city)
 
+
+---
 
 ## FAQ
 
