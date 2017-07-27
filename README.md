@@ -5,7 +5,7 @@
 
 > On June 15, 2017 Swarm City released the first hashtag on the Boardwalk, #pioneer
 
-> See the code: [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md)
+> See the code, [Swarm City Github](https://github.com/swarmcity/sc-boardwalk/blob/master/README.md)
 
 > To visit the Boardwalk, [enter here](https://swarm.city)
 
@@ -43,15 +43,15 @@
 **How does creating a hashtag work?**
 1. from the hashtag index screen, select the (+) symbol
 2. the hashtag is an Ethereum smart contract that can be created in exchange for SWT to cover the required processing power required
-3. the hashtag must have a description explaining the context of expected commerce
-4. the creator must provide a contact link for users that need support
-5. name the hashtag
-6. set the hashtag fee, which is the fixed amount automatically deducted from all transactions and paid out to the hashtag creator
-7. the hashtag creator must also maintian it using the fees deducted from the transaction and can also allocate fixed amounts to compensate additional hashtag maintainers
-8. the hashtag short url is then produced to the hashtag creator and is ready for commerce
+3. the hashtag must have a description explaining the context of expected commerce,a contact link to provide support, and a name
+4. set the hashtag fee, which is the fixed amount automatically deducted from all transactions and paid out to the hashtag creator
+5. the hashtag creator must also maintian the hashtag using the fees deducted from the transaction and can also allocate fixed amounts to compensate additional hashtag maintainers
+6. the hashtag short url is then produced to the hashtag creator and is ready for commerce
+
+**to be continued
 
 
-...more coming soon, I am off to sleep
+
 
 
 
