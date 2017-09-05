@@ -28,11 +28,11 @@
 5. the hashtag smart contract sends those funds to the service provider along with their initial deposit
 6. reputation tokens are minted for both parties upon completion of the transaction
 
-**Where are the funds stored during the transaaction before contract completion?**
-- into a smart contract on the blockchain, the automatic functions of the smart contract take place of escrow agents and payment processors, thus creating a trustless transaction without third party participation
+**Where are the funds stored during the transaction before contract completion?**
+- in a smart contract on the blockchain, the automatic functions of the smart contract take place of escrow agents and payment processors, thus creating a trustless transaction without third party participation
 
 **What hashtags are available now?**
-- #pioneer is the first and only hashtag available for unspecified open commerce as of June 25, 2017
+- #pioneer is the first and only hashtag available for unspecified open commerce as of September 1, 2017
 
 **What are reputation tokens used for?**
 - early adopters receive and hold unique reputation tokens for eternity to reflect thier activity and longevity on the platform
@@ -43,9 +43,9 @@
 **How does creating a hashtag work?**
 1. from the hashtag index screen, select the (+) symbol
 2. the hashtag is an Ethereum smart contract that can be created in exchange for SWT to cover the required processing power required
-3. the hashtag must have a description explaining the context of expected commerce,a contact link to provide support, and a name
+3. the hashtag must have a description explaining the context of expected commerce, a contact link to provide support, and a name
 4. set the hashtag fee, which is the fixed amount automatically deducted from all transactions and paid out to the hashtag creator
-5. the hashtag creator must also maintian the hashtag using the fees deducted from the transaction and can also allocate fixed amounts to compensate additional hashtag maintainers
+5. the hashtag creator must also maintain the hashtag using the fees deducted from the transaction and can also allocate fixed amounts to compensate additional hashtag maintainers
 6. the hashtag short url is then produced to the hashtag creator and is ready for commerce
 
 **to be continued
